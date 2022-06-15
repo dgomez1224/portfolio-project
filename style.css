@@ -52,7 +52,7 @@ ol, ul{
 a:link    { color: blue;  }
 a:visited { color: purple; }
 a:hover   { color: green; }
-a:active  { color: pink;  }
+a:active  { color: purple;  }
 
 .imageRound{
   border-radius: 2%;
