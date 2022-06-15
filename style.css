@@ -1,4 +1,15 @@
 body h1 {
+text-align: center;
 background-color: #b0b3b5;
 color: #000000;
+
+}
+
+h1{
+  font-family: "Gill Sans" , "Times New Roman", serif;
+  font-size; 20px;
+}
+
+.image-circle {
+    border-radius: 50%; 
 }
