@@ -49,7 +49,10 @@ ol, ul{
   list-style-position:inside 
 }
 
-main
+a:link    { color: blue;  }
+a:visited { color: purple; }
+a:hover   { color: green; }
+a:active  { color: pink;  }
 
 .imageRound{
   border-radius: 2%;
