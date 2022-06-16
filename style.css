@@ -40,7 +40,7 @@ main div img{
   
 }
 
-main article h2{
+main article h2, main div h2{
   text-align: center;
   font-family: Courier;
   
